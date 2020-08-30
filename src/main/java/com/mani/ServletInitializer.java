@@ -1,4 +1,4 @@
-package com.mani.LICInsuranceApp;
+package com.mani;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
